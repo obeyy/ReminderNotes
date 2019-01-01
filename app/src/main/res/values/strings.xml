@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="title_hint">Title</string>
+    <string name="reminder_hint">Masukkan Catatan Anda...</string>
+    <string name="delete">Hapus</string>
+    <string name="empty">Kosong..</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">REGISTER</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+
+
+    <!-- FAB labels -->
+    <string name="fab_add_note">Tambah Note</string>
+    <string name="fab_add_alert">Add Alert</string>
+</resources>
